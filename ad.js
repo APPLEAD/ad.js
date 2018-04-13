@@ -34,6 +34,8 @@ function FindProxyForURL(url, host){
 //=========域名Start=========
 //<ad.js_test>
 "sc.cdce.cf",
+"smnr6.cn",
+"juyzr.com",
 //<youku>
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
@@ -3815,8 +3817,7 @@ function FindProxyForURL(url, host){
 "*www.wyxokokok.com/pub/readpubxml*",
 "http://pomelocdn.beautyplus.com/iphone*",
 "*config.mobile.kukuplay.com:8080/MobileConfig*"
-"smnr6.cn"
-"juyzr.com"
+
 //=========URL规则End=========
 //【在分界线上面可以追加URL规则，两边加上双引号，使用逗号分隔。】
     ]
