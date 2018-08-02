@@ -3579,6 +3579,9 @@ function FindProxyForURL(url, host){
 "js1597.cnbole.net",
 "mob.coolnay.com",
 "b.cdnny.com"
+"mgbbc.cn"     
+"bdstatic.com"         
+         
 //=========域名End=========
 //【在分界线上面可以追加域名，两边加上双引号，使用逗号分隔。】
     ]
