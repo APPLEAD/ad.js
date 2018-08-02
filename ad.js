@@ -3583,6 +3583,12 @@ function FindProxyForURL(url, host){
 "bdstatic.com"         
          
 //=========域名End=========
+         
+//=========广告域名Start=======
+"mgbbc.cn",
+"bdstatic.com",
+"mgbbc.cn",
+//=========广告域名End=========
 //【在分界线上面可以追加域名，两边加上双引号，使用逗号分隔。】
     ]
     var ips = [
